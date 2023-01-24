@@ -1,5 +1,5 @@
 --- 
-title: "Comm Maths overview"
+title: "Communicating Maths important dates overview"
 author: "Tamsin Smith"
 date: "`r Sys.Date()`"
 output:
@@ -16,7 +16,7 @@ output:
   pdf_document: default
 site: bookdown::bookdown_site
 documentclass: book
-description: A bookdown template and guidance for people in MASH.
+description: An overview of important dates for communicating maths students 2023.
 always_allow_html: yes
 ---
 
@@ -34,5 +34,5 @@ knitr::opts_chunk$set(
 
 # Welcome {-}
 
-This is Tams Book
+This document contains an overview of important dates for communicating maths students 2023.
 

@@ -20,7 +20,7 @@ $~$
 ::: {.information data-latex=""}
 **Friday 10/2/2023, 12:15-14:05 in 1W2.104 **
 
-Exploring maths communication out there.
+Exploring the existing maths communication out there.
 
 Setting up the Compare and Contrast formative assessment.
 :::
