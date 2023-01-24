@@ -1,0 +1,38 @@
+--- 
+title: "Comm Maths overview"
+author: "Tamsin Smith"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: style.css
+  bookdown::gitbook:
+    css: style.css
+    mathjax:
+      loader:
+        load: '[tex]/cancel'
+      tex:
+        packages:
+          '[+]': cancel
+  pdf_document: default
+site: bookdown::bookdown_site
+documentclass: book
+description: A bookdown template and guidance for people in MASH.
+always_allow_html: yes
+---
+
+```{r, setup, include=FALSE}
+# This allows knitr to automagically take a screen shot of any html used
+# in the documents and then use that image in the pdfs it generates
+# delay = 2 - this gives time for the webpage to load before taking the screen shot.
+# cliprect = 'viewport' - 
+# vheight = 800 - this is set to the same as the height of the embedded NUMBAS questions
+library(webshot2)
+knitr::opts_chunk$set(
+  screenshot.opts = list(delay = 2, cliprect = 'viewport', vheight = 800)
+)
+```
+
+# Welcome {-}
+
+This is Tams Book
+

@@ -1,0 +1,17 @@
+.information {
+  padding: 1em;
+  color: #004085;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+  border-radius: 10px;
+}
+
+/* this changes the styling when dark mode is enabled in the gitbook for the information styling */
+div.color-theme-2 div.information {
+  padding: 1em;
+  color: #004085;
+  background-color: yellow;
+  border-color: #b8daff;
+  border-radius: 10px;
+}
+

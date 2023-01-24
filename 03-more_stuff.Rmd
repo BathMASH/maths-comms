@@ -1,0 +1,68 @@
+# Making it look good
+
+This section gives an overview of different techniques you could use to get your document looking just the way you want. Be warned, through these door Hades lies. Getting stuff to look right in every different format is super hard. Good luck brave adventurer
+
+## Mark down syntax
+
+Markdown is the prefered language to write resources in. It's lightweight and can easily be transformed into different formats. You can the [basic syntax guide here](https://www.markdownguide.org/basic-syntax). It shows you how to do pretty much everything you should need.
+
+## Call out boxes
+
+Adding callout boxes. These can be useful for highlighting areas of text. It's best to define some styles and use the 'nested divs' rather than adding 'inline styling' each time.
+
+::: {.information data-latex=""}
+This is an information callout that should work in pdf and html forms
+:::
+
+This looks funnny in the LaTex version - I need to fix it. I think I got my conversion of HEX to RGB colours mixed up.
+
+```
+::: {.information data-latex=""}
+This is an information callout that should work in pdf and html forms
+:::
+```
+
+They styles for this are defined in `styles.css` and `preamble.tex`. CSS is used for the html versions and LaTex black magic is used for the pdf ones. You can also change the styling for when the user enters night mode in the gitbook. Try it with the box above and it should turn yellow.
+
+Below is what the `style.css` would look like, the first bit defines what an **information** callout looks like in normal mode, the second bit does it for night mode:
+
+```{css}
+.information {
+  padding: 1em;
+  color: #004085;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+  border-radius: 10px;
+}
+
+/* this changes the styling when night mode is enabled
+in the gitbook for the information styling */
+
+div.color-theme-2 div.information {
+  padding: 1em;
+  color: #004085;
+  background-color: yellow;
+  border-color: #b8daff;
+  border-radius: 10px;
+}
+```
+
+## Show-hide boxes
+
+These can be made using a little bit of `html`.
+
+<!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise.-->
+<details>
+<summary>Why did the person click on the text? `r if (knitr:::is_html_output()) '(click to reveal)'`</summary> 
+Because the couldn't resist temptation.
+</details>
+
+This was done using the the following snippet of code.
+
+```
+<!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
+<details>
+<summary>Why did the person click on the text? `r if (knitr:::is_html_output()) '(click to reveal)'`</summary> 
+Because the couldn't resist temptation.
+</details>
+```

@@ -1,0 +1,11 @@
+bookdown::gitbook:
+  config:
+    download: [["Comm-maths-schedule.pdf","pdf"], ["Comm-maths-schedule.epub","epub"]]
+    sharing: null
+bookdown::pdf_book:
+  always_allow_html: yes
+  # the preamle.tex enables the LaTex cancel function in pdf
+  includes:
+    in_header: preamble.tex
+bookdown::epub_book: default
+#bookdown::bs4_book: default
