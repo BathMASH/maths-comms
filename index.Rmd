@@ -3,8 +3,7 @@ title: "Communicating Maths important dates overview"
 author: "Tamsin Smith"
 date: "`r Sys.Date()`"
 output:
-  html_document:
-    css: style.css
+  pdf_document: default
   bookdown::gitbook:
     css: style.css
     mathjax:
@@ -13,7 +12,8 @@ output:
       tex:
         packages:
           '[+]': cancel
-  pdf_document: default
+  html_document:
+    css: style.css
 site: bookdown::bookdown_site
 documentclass: book
 description: An overview of important dates for communicating maths students 2023.

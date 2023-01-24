@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Other important dates {-}
 
 ## Report hand in date. {-}
