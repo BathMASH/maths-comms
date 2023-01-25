@@ -4,14 +4,15 @@ output:
   html_document: default
 ---
 # Other important dates {-}
-
-## Report hand in date. {-}
-
-
+<!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
+<details>
+<summary>Report hand in date. </summary> 
 27.4.23 at 11:59pm
+</details>
 
-## Masterclass delivery dates.{-}
 
+<details>
+<summary>Masterclass delivery dates. </summary> 
 You will need to attend 1 of the following:
 
 **18.3.23**
@@ -32,4 +33,8 @@ You will need to attend 1 of the following:
 - Exeter Maths School (9:30-12:00)
 
 - Bath University (10:00-12.30)
+
+NB you will be allocated a date based on your response to the google form completed in December.
+
+</details>
 

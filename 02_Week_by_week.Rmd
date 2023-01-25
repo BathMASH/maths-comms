@@ -1,12 +1,17 @@
 ---
 always_allow_html: yes
 output:
-  word_document: default
+  html_document:
+    df_print: paged
   pdf_document: default
+  word_document: default
 ---
 # Week by week detail {-}
 
-## Week 1 (WB 6/2/23) {-}
+<!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
+<details>
+<summary>Week 1 (WB 6/2/23)</summary> 
+
 
 ::: {.information data-latex=""}
 **Thursday 9/2/2023, 12:15-13:05 in 8W2.30**
@@ -27,3 +32,6 @@ Exploring the existing maths communication out there.
 
 Setting up the Compare and Contrast formative assessment.
 :::
+
+</details>
+
