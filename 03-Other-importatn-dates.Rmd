@@ -10,7 +10,7 @@ output:
 
 27.4.23 at 11:59pm
 
-## Masterclass observation dates.{-}
+## Masterclass delivery dates.{-}
 
 You will need to attend 1 of the following:
 
