@@ -1,0 +1,120 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# Masterclasses{-}
+<!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
+
+
+<details>
+<summary>Bath 18.2.23. </summary> 
+$~$
+
+::: {.information data-latex=""}
+**Date:** *18.2.23*.
+
+**Time:** *10:00-12:30*.
+
+**Location:** *Bath University Campus*.
+
+**Audience:** *Year 9, approx 100 participants*.
+
+**University Mentor:** *Tam*.
+
+**Masterclass Contact** *Chris Budd mascjb@bath.ac.uk*.
+
+**Group Members:** *Joy Boh, Ashley Higgs, Chloe Howcroft, Lucia Lopez, Haranja Sivaneswaran, Jodie Young.*
+
+:::
+</details>
+
+<details>
+<summary>Oxford 18.2.23. </summary> 
+$~$
+
+::: {.information data-latex=""}
+**Date:** *18.2.23*.
+
+**Time:** *10:00-12:30*.
+
+**Location:** *Oxford Brookes Campus*.
+
+**Audience:** *Sixth form, approx 40 participants*.
+
+**University Mentor:** *Ben*.
+
+**Masterclass Contact** *Sam Kamparis s.kamperis@brookes.ac.uk*.
+
+**Group Members:** *Tom Eves, Zoe Fairfax, Alankrit Mata, Anna Quinn, Rhea Shah.*
+
+:::
+</details>
+
+<details>
+<summary>Holyport 18.2.23. </summary> 
+$~$
+
+::: {.information data-latex=""}
+**Date:** *18.2.23*.
+
+**Time:** *9:30-12:00*.
+
+**Location:** *Holyport*.
+
+**Audience:** *Year 9, approx ? participants*.
+
+**University Mentor:** *Waleed*.
+
+**Masterclass Contact** *?*.
+
+**Group Members:** *Mira Balaji ,Kamilla Bugno,Ewan Partington, Samantha Perryman, Olivia Wiseman.*
+
+:::
+</details>
+
+<details>
+<summary>Bath 25.2.23. </summary> 
+$~$
+
+::: {.information data-latex=""}
+**Date:** *18.2.23*.
+
+**Time:** *10:00-12:30*.
+
+**Location:** *Bath University Campus*.
+
+**Audience:** *Year 9, approx 100 participants*.
+
+**University Mentor:** *Ben*.
+
+**Masterclass Contact** *Chris Budd mascjb@bath.ac.uk*.
+
+**Group Members:** *Abigail Bennett, Tosia Ciszek, Mirren Derby,Timi Folaranmi, Molly Maguire-King, Tali Shear*
+
+:::
+</details>
+
+<details>
+<summary>Exeter 25.2.23. </summary> 
+$~$
+
+::: {.information data-latex=""}
+**Date:** *18.2.23*.
+
+**Time:** *9:30-12:00*.
+
+**Location:** *Exeter School of Maths*.
+
+**Audience:** *Year 9, approx ? participants*.
+
+**University Mentor:** *Tam*.
+
+**Masterclass Contact** *?*.
+
+**Group Members:** *Sam Cheung, Lana Gregory, Ella Hidveghy, Rebecca Knight, AndrewMcGrath.*
+
+:::
+</details>
+
+

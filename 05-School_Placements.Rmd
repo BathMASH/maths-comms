@@ -1,0 +1,57 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# School Placements{-}
+
+A list of the opportunities that you can opt into for your second Mathematical Interaction will appear below.
+
+
+*Please note that you need to have opted to do this, by emailing t.l.smith@bath.ac.uk by 11:15 am on 17.2.23*
+<!-- 
+::: {.information data-latex=""}
+
+**Oldfield School $i^2$ club**
+
+**Date:** ?.
+
+**Time:** ?.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 9, ages 13-14.
+
+**Numbers expected:** 10.
+
+**Ability expected:** Mixed, This is a voluntary club so anyone can attend, however usually this is a club that high attaining pupils attend.
+
+**Type of placement** $i^2$ is a voluntary enrichment club for interested students at a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** ?.
+
+**Time:** ?.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 7, ages 11-12.
+
+**Numbers expected:** 30.
+
+**Ability expected:** This is a mixed ability class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of mixed ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+ -->

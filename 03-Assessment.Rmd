@@ -1,0 +1,323 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# Assessment information{-}
+
+<details>
+<summary>Assessment credit breakdown. </summary>
+
+The Assessment of the course will be based around two Mathematical Interactions (MI's). 
+
+A **Mathematical Interaction** (MI) is defined as the communication of mathematics to an audience.
+
+Typically:
+
+* MI1 is an Ri Masterclass, planned and delivered as a group.
+
+* MI1 is an option from video, article or school placement, planned and delivered as an individual or pair.
+
+Each of the two MI's will be summatively assessed in two parts:
+
+A) The Live And Recorded Delivery 25% of the overall course mark
+
+B)  The Written Evaluation 25% of the overall course mark
+
+Overall this is how the marks for the course will be allocated:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-mfjn{background-color:#333333;border-color:#000000;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 407px">
+<colgroup>
+<col style="width: 175.333333px">
+<col style="width: 115.333333px">
+<col style="width: 116.666666px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-mfjn"></th>
+    <th class="tg-f7v4">Delivery</th>
+    <th class="tg-f7v4">Evaluation report</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f7v4">Mathematical Interaction 1</td>
+    <td class="tg-iks7">25%</td>
+    <td class="tg-iks7">25%</td>
+  </tr>
+  <tr>
+    <td class="tg-f7v4">Mathematical Interaction 2</td>
+    <td class="tg-iks7">25%</td>
+    <td class="tg-iks7">25%</td>
+  </tr>
+</tbody>
+</table>
+
+The assessment criteria for each part can be found in Assessment submission topic file on moodle or in the list below.
+</details>
+
+<details>
+<summary>Coursework cover sheet. </summary> 
+**Set:** *When issued: 9.2.23 12:15*.
+
+**Due:** *Deadline: 28.4.23 11:59pm*.
+
+**Estimated time required:** The coursework should take no more than *30 hours* to complete.
+
+**Submission:** *Submit to the moodle page as a PDF; Your candidate name and number be included*
+
+**Conditions:** *The report is an individual submission*
+
+**Value:** *This written assignment carries 50\% of the total marks for the course.This assignment will be marked out of 50 where 25 marks are available for each section detailed on the assessment criteria.*
+
+**Length:** There is a word count of 2500 words, 1250 words for your evaluation of Mathematical Interaction 1 and 1250 word for your evaluation of Mathemametical Interaction 2.
+
+**Support and advice:** *You can ask you mentor for advice up until the deadline day in the designated mentoring sessions.*
+
+**Feedback:** You will receive your marks for the unit at the same time as your other modules. 
+
+**Late submission of coursework:** If there are valid circumstances preventing you from meeting the deadline, your Director of Studies may grant you an extension to the specified submission date, if it is requested before the deadline. Forms to request an extension are available on SAMIS.
+
+* If you submit a piece of work after the submission date, and no extension has been granted, the maximum mark possible will be the pass mark.
+* If you submit work more than five working days after the submission date, you will normally receive a mark of 0 (zero), unless you have been granted an extension.
+
+**Academic integrity statement:** Academic misconduct is defined by the University as “the use of unfair means in any examination or assessment procedure”. This includes (but is not limited to) cheating, collusion, plagiarism, fabrication, or falsification. The University’s Quality Assurance Code of Practice, [QA53 Examination and Assessment Offences](https://www.bath.ac.uk/publications/qa53-examination-and-assessment-offences/), sets out the consequences of committing an offence and the penalties that might be applied.
+
+**Contact details:**
+
+*Tamsin Smith*<br>\newline
+Room: *6W1.28* <br>\newline
+E-mail: *t.l.smith@bath.ac.uk*
+
+</details>
+
+<details>
+<summary>Group Contributions. </summary>
+
+*Group Contribution Rating (GCR)*
+
+Group members must agree on one another’s relative contribution to their coursework. We will assume that groups agree to an even allocation of marks across the group unless a Group Contribution Form (GCF) is submitted to the unit convener.
+
+*The Group Contribution Form (GCF)*
+
+The GCF is available on the Moodle page and records how well individual members have contributed to the coursework throughout the coursework period. The final GCF is a one-page document with every group member’s name, signature and agreed assessment of their percentage contribution to the coursework over the whole coursework period. In the case that recorded percentage contributions are exceptionally high or low, the GCF document should include a brief paragraph of explanation. (An example can be found Assessment submission topic file) The signed GCF must be submitted to the unit convener after the live delivery. If no agreement can be reached on the contributions of individual members, the group can hand in more than one GCF, but members will be required to produce evidence in a hearing with the unit convener to support their argument. In such an eventuality, the Director of Teaching may also be involved. The GCF will directly inform the allocation of marks to each individual group member.
+
+
+
+</details>
+
+<details>
+<summary>Assessment Criteria. </summary>
+
+**Live and recorded delivery descriptors.**
+
+
+*Grid A* will be used to mark the content of each Mathematical Interaction (which could be one of the below items):
+
+* COMPULSORY - Masterclasses: Live delivery - in groups
+$~$
+* OPTION - Written article
+suitable for Chalkdust, published on Medium - individual work
+* OPTION - Video
+published on YouTube, e.g. similar in style to Numberphile, StandupMaths, 3Blue1Brown. Maximum 2 in group.
+* OPTION - School placement
+to be arranged in local school (limited availability)
+
+
+**Written Evaluation descriptors**
+
+*Grid B* will be used to mark the written evaluation of each Mathematical Interaction.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-rv8b{background-color:#c0c0c0;border-color:#000000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cscf{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 704px">
+<colgroup>
+<col style="width: 83.333333px">
+<col style="width: 124.333333px">
+<col style="width: 123.666666px">
+<col style="width: 124.333333px">
+<col style="width: 124.333333px">
+<col style="width: 124.333333px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="6">GRID A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rv8b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Mark</span></td>
+    <td class="tg-cscf"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Mathematical Content</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">(e.g. equations, derivations, proofs and correctness/appropriateness of these)</span></td>
+    <td class="tg-cscf"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Communication with media and demonstration</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">(e.g. slides, physical props, board use, graphics/animation, handouts etc)</span></td>
+    <td class="tg-abx8"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Style and Delivery(e.g technique, audience handling, confidence, clarity, surprise, humour, variety, tone)</span></td>
+    <td class="tg-abx8"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Structure and pacing</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">(e.g sections, pace, flow, narrative, coherence)</span></td>
+    <td class="tg-abx8"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Appropriateness for Audience</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f7v4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">5</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Detailed and consistent understanding of the content.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Fully correct and appropriate mathematics.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Awareness of wider context demonstrated.</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Fully developed use of media.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Successful, creative, or original demonstrations.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Well developed general style and delivery</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Delivery is clear, and engages well with the audience, using a range of successful techniques.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Fully appropriate structure and pace.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Well chosen quantity and ordering of material gives a complete narrative.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Fully developed understanding of the intended audience and their prior knowledge.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Progression of the material, from an appropriate entry level, is successfully managed and enhances audience interest/experience.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f7v4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">4</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Detailed understanding of the content.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Mostly correct and appropriate mathematics.</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Mostly developed use of media.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Mostly successful, creative, or original demonstrations.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">General style and delivery is well developed in places</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Delivery engages well with the audience, using some successful techniques</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Appropriate structure and pace.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Quantity and order of material fits structure and aids narrative.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Mostly developed understanding of the intended audience and their prior knowledge.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Progression of the material achieved, from an appropriate entry level.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y6fn"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">3</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some misunderstanding of the content is apparent.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some mathematical inaccuracies or omissions.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some media used inappropriately, otherwise resources and media are adequate</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some successful demonstrations.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some good style and delivery.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Occasional problems with clarity or audience engagement.</span><br></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some evidence of structure and some sections well paced.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some problems with quantity or ordering of material which affect the narrative.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some understanding of the intended audience and their prior knowledge.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some progression of material is successfully managed.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Some material occasionally inappropriate for the audience </span></td>
+  </tr>
+  <tr>
+    <td class="tg-y6fn"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">2</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant misunderstanding of the content is apparent.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant mathematical inaccuracies or omissions</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant problems with use of media, even if some are used well.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant problems with demonstrations</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant problems with style or delivery, with negative consequences for audience engagement (observed or likely)</span><br></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Minimal structure apparent or significant problems with pacing.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant problems with quantity or ordering of material which affect the narrative.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Minimal understanding of the audience and their prior knowledge.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Significant problems with level of material and progression.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y6fn"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">1</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited understanding of content </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Minimal mathematical content</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited use of media.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited demonstrations.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited style and delivery throughout, resulting in continued audience disengagement (observed or likely)</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited or no structure</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited pacing.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No overarching narrative.</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Very limited  understanding of the audience.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Inappropriate level and progression of material</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y6fn"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">0</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No mathematical content</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No use of media or demonstrations</span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No presentation or work submitted </span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No presentation or work submitted </span></td>
+    <td class="tg-ycr8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">No indication or awareness of the intended audience or their level.</span></td>
+  </tr>
+</tbody>
+</table>
+$~$
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-rv8b{background-color:#c0c0c0;border-color:#000000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cscf{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6e8n{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 704px">
+<colgroup>
+<col style="width: 83.333333px">
+<col style="width: 123.666666px">
+<col style="width: 124.333333px">
+<col style="width: 124.333333px">
+<col style="width: 124.333333px">
+<col style="width: 124.333333px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan="6">GRID B</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rv8b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Mark</span></td>
+    <td class="tg-cscf"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aims, Objectives and Intentions</span></td>
+    <td class="tg-6e8n"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Collection and analysis of Feedback</span></td>
+    <td class="tg-6e8n"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Positive reflections </span></td>
+    <td class="tg-6e8n"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potential Improvements</span></td>
+    <td class="tg-abx8"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000">Overall quality of written communication</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f7v4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">5</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fully appropriate aims and objectives that are clear, attainable, and appropriate.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fully developed discussion of intentions with reasons, and the specific actions to accomplish them.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fully developed plan for collecting appropriate feedback from the audience.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Detailed analysis of the quantity and quality of feedback received using meaningful summary techniques.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fully developed discussion of what went well, and why.</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Clear and detailed reflection on success of meeting the overall aims and objectives.</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Characterised by mature reflective judgement on the impact of the work.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fully developed  discussion of what did not work well, and how things could be improved.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Clear reflection on failure of meeting the overall aims and objectives.</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Characterised by mature reflective judgement on the impact of the work.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ideas expressed clearly, concisely, and with excellent structure. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f7v4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">4</span></td>
+    <td class="tg-iks7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Appropriate aims and objectives that are mostly clear, attainable, and appropriate.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Appropriate discussion of intentions.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Developed methods of feedback collection feedback from the audience.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Analysis of the quantity or quality of feedback received using meaningful summary techniques.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Developed discussion of what went well, and why.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Clear reflection on success of meeting the overall aims and objectives.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Developed discussion of what did not work well</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Clear reflection on failures of meeting the overall aims and objectives.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ideas are generally expressed well, and with appropriate structure.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-llyw"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">3</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fairly clear aims and objectives some of which are clear, attainable, and appropriate.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Partial discussion of intentions/reasons.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Some evidence of feedback collected, but of varying quality and usefulness.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Some discussion/analysis, possibly presented inefficiently.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Some awareness of what went well and only partial discussion of the reasons for this.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Some awareness of what did not work well and only partial discussion of the reasons for this.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ideas are generally expressed fairly clearly, with reasonably appropriate structure.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-llyw"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">2</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mostly unhelpful aims and objectives, which are not clear, obtainable or appropriate.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimal discussion of intentions/reasons.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimal planning for feedback leading to little discussion or analysis.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimal awareness of what went well </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obvious success points missed or not discussed.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimal awareness of what went did not work  well </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obvious failure points missed or not discussed</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ideas are rarely expressed coherently.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Structure is less appropriate.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-llyw"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">1</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aims or objectives are unhelpful or vague, and few or none are clear or obtainable.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Very limited discussion of intentions/reasons.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Very limited  planning for feedback collection and little or no discussion or analysis.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Very limited awareness/reflection on any success.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Very limited awareness/reflection on any failure.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ideas are expressed incoherently.  Limited structureD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-llyw"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">0</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No aims or objectives set</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No attempt at feedback collection, discussion, or analysis.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No awareness of positive  aspects of work.</span></td>
+    <td class="tg-c6of"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No awareness of negative  aspects of work..</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No written work submitted.</span></td>
+  </tr>
+</tbody>
+</table>
+
+</details>
+
+

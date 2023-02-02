@@ -1,5 +1,5 @@
 --- 
-title: "Communicating Maths important dates overview"
+title: "Communicating Maths Information"
 author: "Tamsin Smith"
 date: "`r Sys.Date()`"
 output:
@@ -13,7 +13,7 @@ output:
           '[+]': cancel
 site: bookdown::bookdown_site
 documentclass: book
-description: An overview of important dates for communicating maths students 2023.
+description: Important information for communicating maths students 2023.
 always_allow_html: yes
 ---
 
@@ -31,5 +31,5 @@ knitr::opts_chunk$set(
 
 # Welcome {-}
 
-This document contains an overview of important dates for communicating maths students 2023.
+This document contains an overview of important dates and details for communicating maths students 2023. This document will update as the semester progresses.
 
