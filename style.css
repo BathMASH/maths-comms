@@ -14,4 +14,7 @@ div.color-theme-2 div.information {
   border-color: #b8daff;
   border-radius: 10px;
 }
-
+/* This increase the page width of gitbook */
+.book .book-body .page-wrapper .page-inner {
+  max-width: 1200px !important;
+}

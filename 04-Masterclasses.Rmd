@@ -40,7 +40,7 @@ $~$
 
 **Location:** *Oxford Brookes Campus*.
 
-**Audience:** *Sixth form, approx 40 participants*.
+**Audience:** *Sixth form, approx 30 participants*.
 
 **University Mentor:** *Ben*.
 
@@ -52,7 +52,7 @@ $~$
 </details>
 
 <details>
-<summary>Holyport 18.2.23. </summary> 
+<summary>Holyport College 18.2.23. </summary> 
 $~$
 
 ::: {.information data-latex=""}
@@ -60,13 +60,13 @@ $~$
 
 **Time:** *9:30-12:00*.
 
-**Location:** *Holyport*.
+**Location:** *Holyport College*.
 
-**Audience:** *Year 9, approx ? participants*.
+**Audience:** *Year 9, approx 45 participants*.
 
 **University Mentor:** *Waleed*.
 
-**Masterclass Contact** *?*.
+**Masterclass Contact** *Daniel Hubbard rimasterclasses@holyportcollege.org.uk*.
 
 **Group Members:** *Mira Balaji ,Kamilla Bugno,Ewan Partington, Samantha Perryman, Olivia Wiseman.*
 
@@ -106,13 +106,13 @@ $~$
 
 **Location:** *Exeter School of Maths*.
 
-**Audience:** *Year 9, approx ? participants*.
+**Audience:** *Year 9, approx 30 participants*.
 
 **University Mentor:** *Tam*.
 
-**Masterclass Contact** *?*.
+**Masterclass Contact** *Sophie Brown SophieBrown@exeterms.ac.uk*.
 
-**Group Members:** *Sam Cheung, Lana Gregory, Ella Hidveghy, Rebecca Knight, AndrewMcGrath.*
+**Group Members:** *Sam Cheung, Lana Gregory, Ella Hidveghy, Rebecca Knight, Andrew McGrath.*
 
 :::
 </details>
