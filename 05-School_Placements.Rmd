@@ -9,20 +9,21 @@ A list of the opportunities that you can opt into for your second Mathematical I
 
 
 *Please note that you need to have opted to do this, by emailing t.l.smith@bath.ac.uk by 11:15 am on 17.2.23*
-<!-- 
+
+
 ::: {.information data-latex=""}
 
 **Oldfield School $i^2$ club**
 
-**Date:** ?.
+**Date:** 28.4.23.
 
-**Time:** ?.
+**Time:** 13:10-13:50.
 
 **Location:** [Oldfield School](http://www.oldfieldschool.com/)
 
-**Age range:** Year 9, ages 13-14.
+**Age range:** Year 11,12,13, ages 15-18.
 
-**Numbers expected:** 10.
+**Numbers expected:** 10-15.
 
 **Ability expected:** Mixed, This is a voluntary club so anyone can attend, however usually this is a club that high attaining pupils attend.
 
@@ -37,21 +38,189 @@ $~$
 
 **Oldfield School enrichment lesson.**
 
-**Date:** ?.
+**Date:** 23.3.23
 
-**Time:** ?.
+**Time:** 8:50-9:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 10, ages 14-15.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 24.3.23
+
+**Time:** 9:50-10:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 9, ages 13-14.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 27.3.23
+
+**Time:** 9:50-10:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 9, ages 13-14.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 27.3.23
+
+**Time:** 11:10-12:10.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 8, ages 12-13.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 30.3.23
+
+**Time:** 8:50-9:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 8, ages 12-13.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 30.3.23
+
+**Time:** 9:50-10:50.
 
 **Location:** [Oldfield School](http://www.oldfieldschool.com/)
 
 **Age range:** Year 7, ages 11-12.
 
-**Numbers expected:** 30.
+**Numbers expected:** 32.
 
-**Ability expected:** This is a mixed ability class.
+**Ability expected:** This is a top set class.
 
-**Type of placement** This is an opportunity to take a one off lesson to a group of mixed ability students in a fully comprehensive, mixed sex school.
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
 
 **Notes:** You need be able to make your own way to the venue.
 
 :::
- -->
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 31.3.23
+
+**Time:** 8:50-9:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 8, ages 12-13.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+
+**Oldfield School enrichment lesson.**
+
+**Date:** 31.3.23
+
+**Time:** 9:50-10:50.
+
+**Location:** [Oldfield School](http://www.oldfieldschool.com/)
+
+**Age range:** Year 10, ages 14-15.
+
+**Numbers expected:** 32.
+
+**Ability expected:** This is a top set class.
+
+**Type of placement** This is an opportunity to take a one off lesson to a group of high ability students in a fully comprehensive, mixed sex school.
+
+**Notes:** You need be able to make your own way to the venue.
+
+:::
+ 
