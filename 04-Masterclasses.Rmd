@@ -6,6 +6,9 @@ output:
 # Masterclasses{-}
 <!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
 
+The Communicating Maths cohort will deliver 5 masterclasses over two weekends.
+
+Please find your group below to find details of your delivery group and the series you will attend.
 
 <details>
 <summary>Bath 18.2.23. </summary> 
