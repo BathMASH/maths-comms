@@ -67,4 +67,53 @@ Explore what a Masterclass is, tips on how to plan one and time to start your in
 
 </details>
 
+<details>
+<summary> Week 3 WB 20/2/23, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Thursday 23/2/2023, 12:15-13:05 in 8W2.30**
+
+Aims and Objectives.
+
+What are they? Examples in practice and their benefit for evaluation.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 24/2/2023, 12:15-14:05 in 1W2.104 **
+
+The greatest hits of maths communication.
+
+We will showcase a selection of the most used examples in the world of maths comm as inspiration for content choice and delivery options for your own delivery.
+
+:::
+
+</details>
+
+<details>
+<summary> Week 4 WB 27/2/23, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Thursday 2/3/2023, 12:15-13:05 in 8W2.30**
+
+MENTORING
+
+Details of where and when will appear here!
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 3/3/2023, 12:15-14:05 in 1W2.104 **
+
+Presentation skills and managing an audience
+
+We will provide examples of a variety of presenter/audience interactions and highlight successful, and potential likely areas of breakdown, in this interaction.
+
+
+:::
+
+
+
 
