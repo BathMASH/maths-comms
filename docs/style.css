@@ -18,3 +18,24 @@ div.color-theme-2 div.information {
 .book .book-body .page-wrapper .page-inner {
   max-width: 1200px !important;
 }
+
+.mentoring {
+  padding: 1em;
+  color: #F9F8F4;
+  background-color: #30B39F;
+  border-color: #30B39F;
+  border-radius: 10px;
+}
+
+/* this changes the styling when dark mode is enabled in the gitbook for the mentoring styling */
+div.color-theme-2 div.mentoring {
+  padding: 1em;
+  color: #F9F8F4;
+  background-color: #30B39F;
+  border-color: #30B39F;
+  border-radius: 10px;
+}
+/* This increase the page width of gitbook */
+.book .book-body .page-wrapper .page-inner {
+  max-width: 1200px !important;
+}

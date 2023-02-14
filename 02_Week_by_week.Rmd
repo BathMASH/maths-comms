@@ -94,7 +94,7 @@ We will showcase a selection of the most used examples in the world of maths com
 <details>
 <summary> Week 4 WB 27/2/23, click to reveal. </summary> 
 
-::: {.information data-latex=""}
+::: {.mentoring data-latex=""}
 **Thursday 2/3/2023, 12:15-13:05 in 8W2.30**
 
 MENTORING
