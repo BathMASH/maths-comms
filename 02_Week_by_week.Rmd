@@ -99,7 +99,8 @@ We will showcase a selection of the most used examples in the world of maths com
 
 MENTORING
 
-Details of where and when will appear here!
+All groups will meet in person in 8W2.30
+
 :::
 
 $~$
@@ -114,6 +115,50 @@ We will provide examples of a variety of presenter/audience interactions and hig
 
 :::
 
+</details>
+
+<details>
+<summary> Week 5 WB 6/3/23, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Thursday 8/3/2023, 12:15-14:05 in 1W2.104 **
+
+*Masterclass pitches*:
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+
+Schedule:
+
+
+12.20 Bath 18/3 Group
+
+12:40 Holyport 18/3 Group
+
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 10/3/2023, 12:15-14:05 in 1W2.104 **
+
+*Continuation of Masterclass pitches*:
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+
+Schedule:
+
+
+12:20 Oxford 18/3 group
+
+12:40 Bath 25/3 group
+
+13:20 Exeter 25/3 group
+
+
+:::
 
 
 
