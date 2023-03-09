@@ -121,7 +121,7 @@ We will provide examples of a variety of presenter/audience interactions and hig
 <summary> Week 5 WB 6/3/23, click to reveal. </summary> 
 
 ::: {.information data-latex=""}
-**Thursday 8/3/2023, 12:15-14:05 in 1W2.104 **
+**Thursday 8/3/2023, 12:15-13:05 in 1W2.104 **
 
 *Masterclass pitches*:
 
@@ -160,5 +160,68 @@ Schedule:
 
 :::
 
+</details>
+
+<details>
+<summary> Week 6 WB 13/3/23, click to reveal. </summary> 
+
+::: {.mentoring data-latex=""}
+**Thursday 16/3/2023, 12:15-13:05 **
+Mentoring:
+
+Tamsin online mentoring
+
+
+Ben TBC
+
+
+Waleed TBC
+
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 17/3/2023, 12:15-13:05 in 1W2.104 **
+
+*MI2 advice sessions*:
+
+The group will split into 3 sections (Schools Placement/Article/Video) to discuss good practise.
+
+**Friday 17/3/2023, 13:05-14:05 in 1W2.104 **
+
+*Assessment support*:
+
+The session will address how you will be assessed and things to think about to improve your grade.This will have specific reference to your written report.
+
+
+
+:::
+
+</details>
+
+<details>
+<summary> Week 7 WB 20/3/23, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Thursday 23/3/2023, 12:15-13:05 **
+
+Mathematical Interaction 2 pitches.
+Details to follow
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 24/3/2023, 12:15-14:05 in 1W2.104 **
+
+Mathematical Interaction 2 pitches cont.
+Details to follow
+
+
+
+:::
 
 
