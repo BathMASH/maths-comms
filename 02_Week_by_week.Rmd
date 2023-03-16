@@ -16,7 +16,7 @@ Lectures,workshops and mentoring sessions will take place at the following times
 
 - **Friday** 12:15-14:05 in 1W2.104
 
-† please note that in some of the Thursday sessions, the cohort will split into three different locations, each group with their own mentor. Details of this will be listed in the week summary below.
+† please note that in some of the sessions, the cohort will split into three different locations, each group with their own mentor. Details of this will be listed in the week summary below.
 
  <details>
 <summary> Week 1 WB 6/2/23, click to reveal. </summary> 
@@ -210,20 +210,146 @@ The session will address how you will be assessed and things to think about to i
 **Thursday 23/3/2023, 12:15-13:05 **
 
 Mathematical Interaction 2 pitches.
-Details to follow
+
+The following people will need to present a 3-4 min pitch on their School Placement. They will repeat this pitch multiple times to their peers and staff to gain feedback and ideas.
+
+Mira Balaji,
+Abigail Bennett,
+Anna Quinn,
+ Zoe Fairfax, 
+Chloe Howcroft,  
+Ashley Higgs, 
+Joy Boh,
+Ewan Partington,
+Rhea Shah.
 
 :::
 
 $~$
 
 ::: {.information data-latex=""}
-**Friday 24/3/2023, 12:15-14:05 in 1W2.104 **
+**Friday 24/3/2023, 12:15-13:05 in 1W2.104 **
 
-Mathematical Interaction 2 pitches cont.
-Details to follow
+Mathematical Interaction 2 pitches.
+
+The following people will need to present a 3-4 min pitch on their Article or Video. They will repeat this pitch multiple times to their peers and staff to gain feedback and ideas.
+
+Lucia Lopez,
+Molly Maguire King,
+Alankrit Mata,
+Andrew McGrath,
+Samantha Perryman,
+Tali Shear,
+Haranja Sivaneswaran,
+Olivia Wiseman,
+Jodie Young.
 
 
 
 :::
 
+
+
+$~$
+
+:::: {.mentoring data-latex=""}
+**Friday 24/3/2023, 13:05-14:05 in 1W2.104 **
+
+Mentoring on Mathematical Interaction 2
+
+:::
+
+</details>
+
+<details>
+<summary> Week 8 WB 27/3/23, click to reveal. </summary> 
+
+::: {.Feedback data-latex=""}
+**Thursday 30/3/2023, 12:15-13:05 **
+
+Formal feedback:
+
+Each Master class group will receive 20 minutes of structured feedback to support the writing of your report. 
+
+
+Each school placement individual/pair will receive 10 minutes of feedback. 
+
+The schedule of feedback times and locations are detailed below.
+
+<u>**Feedback in 8W 2.15**</u>
+
+
+
+11:55 Abi/Tam School Placement
+
+12:05 Chloe/Tam School Placement
+
+12:15 Bath 18th Masterclass group/Tam
+
+12:35 Exeter 25th Masterclass group/Tam
+
+12:55 Anna School Placement/Tam
+
+
+
+
+<u>**Feedback in 8W 2.30**</u>
+
+12:15 Oxford 18th Masterclass group/Ben
+
+12:35 Bath 25th Masterclass group/Ben
+
+
+
+<u>**Feedback in 8W 2.22**</u>
+
+12:15 Holyport 18th Masterclass group/Waleed
+
+12:35 Zoe School Placement/Waleed
+
+12:45 Ashley/Joy/Waleed School Placement
+
+12:55 Mira/Rhea/Waleed School Placement
+
+13:10 Ewan/Tam School Placement/Tam
+
+
+
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 31/3/2023, 12:15-13:05 in 1W2.104 **
+
+Mathematical Interaction 2 pitches.
+
+The following people will need to present a 3-4 min pitch on their Article or Video. They will repeat this pitch multiple times to their peers and staff to gain feedback and ideas.
+
+Kamila Bugno,
+Sam Cheung,
+Tosia Ciszek,
+Mirren  Derby,
+Tom Eves,
+Timi Folaranmi,
+Lana Gregory,
+Ella Hidveghy,
+Rebecca Knight.
+
+
+
+
+:::
+
+
+
+$~$
+
+:::: {.mentoring data-latex=""}
+**Friday 31/3/2023, 13:05-14:05 in 1W2.104 **
+
+Mentoring on Mathematical Interaction 2
+
+:::
 
