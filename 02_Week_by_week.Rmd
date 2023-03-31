@@ -353,4 +353,52 @@ $~$
 Mentoring on Mathematical Interaction 2
 
 :::
+</details>
+<details>
+<summary> Week 9 WB 17/4/23, click to reveal. </summary>
 
+:::: {.mentoring data-latex=""}
+**Thursday 20/4/2023, 12:05-13:05 in 8W2.30 **
+
+Mentoring (report writing)
+
+*Waleed will be virtual
+
+:::
+
+::: {.information data-latex=""}
+**Friday 21/4/2023, 12:05-14:05 in 1W2.104 **
+
+Report writing discussion and activity.
+
+We will be using a guest speaker (Dr Katie Steckles) as an exemplar to explore possible report content and techniques.
+
+
+:::
+
+</details>
+
+<details>
+<summary> Week 10 WB 24/4/23, click to reveal. </summary>
+
+:::: {.mentoring data-latex=""}
+**Thursday 27/4/2023, 12:05-13:05 in 8W2.30 **
+
+Mentoring (report writing)
+
+
+:::
+
+::: {.information data-latex=""}
+**Friday 28/4/2023, 12:05-14:05 in 1W2.104 **
+
+HAND IN DAY!
+
+Final session - bring  trick.
+
+
+
+
+:::
+
+</details>
