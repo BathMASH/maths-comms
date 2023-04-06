@@ -389,7 +389,7 @@ Mentoring (report writing)
 
 :::
 
-::: {.information data-latex=""}
+::: {.handin data-latex=""}
 **Friday 28/4/2023, 12:05-14:05 in 1W2.104 **
 
 HAND IN DAY!
