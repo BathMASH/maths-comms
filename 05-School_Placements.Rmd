@@ -8,6 +8,7 @@ output:
 A list of arranged placements will be listed below for those who opted for school placement for their second Mathematical Interaction in due course.
 <!--
 
+
 |     Time              |     First room                                                |     Second room                                                     |
 |-----------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 |     9:50-10:50    |                                       |     Year 9 mixed ability comp sci lesson in a computer room- ABI    |
@@ -15,5 +16,4 @@ A list of arranged placements will be listed below for those who opted for schoo
 |     12:10-13:10       |     Year 7 set 1 -ZOE                                       |     Year 7 set 2- CHLOE                                             |
 |     13:10-13:50       |     Lunchtime enrichment $i^2$ club – ASHLEY and JOY    |                                                                     |
 |     13:50-14:50       |     Year 9 top set EWAN                        |                                                                     |
-
-
+-->

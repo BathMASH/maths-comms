@@ -7,8 +7,8 @@ output:
 <!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
 
 The Communicating Maths cohort will deliver 6 masterclasses over two weekends. Details will be listed below in due course.
+<!-- 
 
-<!--
 Please find your group below to find details of your delivery group and the series you will attend.
 
 <details>
@@ -134,5 +134,5 @@ Please find your group below to find details of your delivery group and the seri
 **Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
 :::
 </details>
-
+-->
 
