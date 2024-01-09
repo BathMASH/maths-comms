@@ -5,7 +5,8 @@ output:
 ---
 # School Placements{-}
 
-A list of arranged placements are listed below for those who opted for school placement for their second Mathematical Interaction.
+A list of arranged placements will be listed below for those who opted for school placement for their second Mathematical Interaction in due course.
+<!--
 
 |     Time              |     First room                                                |     Second room                                                     |
 |-----------------------|-------------------------------------------------------------|---------------------------------------------------------------------|

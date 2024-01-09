@@ -10,14 +10,29 @@ output:
 
 <!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
 
-Lectures,workshops and mentoring sessions will take place at the following times in weeks 19-26,29,30.
+Lectures,workshops and mentoring sessions will take place at the following times in weeks 19-22,
 
-- **Thursday** 12:15-13:05 in 8W2.30 †
+- **Tuesday** 10:15-11:05 in 1W2.01 
+ 
+- **Thursday** 12:15-13:05 in 8W2.30 
 
 - **Friday** 12:15-14:05 in 1W2.104
 
-† please note that in some of the sessions, the cohort will split into three different locations, each group with their own mentor. Details of this will be listed in the week summary below.
+- **Friday** 17:15-18:05 in 8W2.10
 
+Lectures,workshops and mentoring sessions will take place at the following times in weeks 23-26,29-32
+
+- **Thursday** 12:15-13:05 in 8W2.30 
+
+- **Friday** 12:15-14:05 in 1W2.104
+
+
+
+Please note that in some of the sessions listed above, the cohort will split into three different locations, each group with their own mentor or group. Details of this will be listed in the week summary below.
+
+
+
+<!---
  <details>
 <summary> Week 1 WB 6/2/23, click to reveal. </summary> 
 
