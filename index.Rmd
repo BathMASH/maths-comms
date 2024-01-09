@@ -31,5 +31,5 @@ knitr::opts_chunk$set(
 
 # Welcome {-}
 
-This document contains an overview of important dates and details for communicating maths students 2023. This document will update as the semester progresses.
+This document contains an overview of important dates and details for communicating maths students 2024. This document will update as the semester progresses.
 
