@@ -93,6 +93,9 @@ The assessment criteria for each part can be found in Assessment submission topi
 
 **Academic integrity statement:** Academic misconduct is defined by the University as “the use of unfair means in any examination or assessment procedure”. This includes (but is not limited to) cheating, collusion, plagiarism, fabrication, or falsification. The University’s Quality Assurance Code of Practice, [QA53 Examination and Assessment Offences](https://www.bath.ac.uk/publications/qa53-examination-and-assessment-offences/), sets out the consequences of committing an offence and the penalties that might be applied.
 
+**Generative AI** 
+Generative AI is permitted as an assistive tool for specific defined processes within the assessment and its use is not mandatory in order to complete the assessment. Please cite any uses of generative AI throughout coursework write up.
+
 **Contact details:**
 
 *Tamsin Smith*<br>\newline
