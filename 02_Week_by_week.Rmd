@@ -30,33 +30,429 @@ Lectures,workshops and mentoring sessions will take place at the following times
 
 Please note that in some of the sessions listed above, the cohort will split into three different locations, each group with their own mentor or group. Details of this will be listed in the week summary below.
 
-<!--
+
 
 <details>
-<summary> Week 1 WB 6/2/23, click to reveal. </summary> 
+<summary> Week 1 WB 5/2/24, click to reveal. </summary> 
 
 ::: {.information data-latex=""}
-**Thursday 9/2/2023, 12:15-13:05 in 8W2.30**
+**Tuesday 6/2/2024, 10:15-11:05 in 1W2.01**
 
 Welcome.
 
 What is Maths Communication?
 
-Course information.
+Course information including group allocation.
+
+Set up of 'Compare and Contrast' formative task.
 :::
 
 $~$
 
 ::: {.information data-latex=""}
-**Friday 10/2/2023, 12:15-14:05 in 1W2.104 **
+**Thursday 8/2/2024, 12:15-13:05 in 8W2.30**
 
-Exploring the existing maths communication out there.
+'Compare and Contrast' formative task.
+:::
 
-Setting up the 'Compare and Contrast' formative assessment.
+$~$
+
+::: {.information data-latex=""}
+**Friday 9/2/2023, 12:15-14:05 in 1W2.104 **
+
+Masterclasses overview.
+
+Explore what a Masterclass is, tips on how to plan one and time to start your initial discussions.
+
+Including visitor Sam Durbin from the Ri
+
+:::
+$~$
+
+::: {.information data-latex=""}
+**Friday 9/2/2024, 17:15-18:05 in 8W2.10**
+
+Meet your Masterclass group for initial discussions
+:::
+$~$
+
+</details>
+
+<details>
+<summary> Week 2 WB 12/2/24, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Tuesday 13/2/2024, 10:15-11:05 in 1W2.01**
+
+Aims and Objectives.
+
+What are they? Examples in practice and their benefit for evaluation.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Thursday 15/2/2024, 12:15-13:05 in 8W2.30**
+
+Mentor group meetings to discuss initial plans for your Masterclass.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 16/2/2023, 12:15-14:05 in 1W2.104 **
+
+Case study evaluation. 
+
+Introducing the WWW (What Went well) and EBI (Even Better If) evaluation structure for verbal and written evaluation.
+
+:::
+$~$
+
+::: {.information data-latex=""}
+**Friday 16/2/2024, 17:15-18:05 in 8W2.10**
+
+Masterclass group development.
+:::
+$~$
+
+</details>
+
+<details>
+<summary> Week 3 WB 19/2/24, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Tuesday 20/2/2024, 10:15-11:05 in 1W2.01**
+
+The greatest hits of maths communication.
+
+We will showcase a selection of the most used examples in the world of maths comm as inspiration for content choice and delivery options for your own delivery.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Thursday 22/2/2024, 12:15-13:05 in 8W2.30**
+
+The greatest hits of maths communication continued.
+
+We will showcase a selection of the most used examples in the world of maths comm as inspiration for content choice and delivery options for your own delivery.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 23/2/2023, 12:15-14:05 in 1W2.104 **
+
+Presentation skills and managing an audience
+
+We will provide examples of a variety of presenter/audience interactions and highlight successful, and potential likely areas of breakdown, in this interaction.
+
+:::
+$~$
+
+::: {.information data-latex=""}
+**Friday 23/2/2024, 17:15-18:05 in 8W2.10**
+
+Masterclass group development.
+:::
+$~$
+
+</details>
+
+<details>
+<summary> Week 4 WB 26/2/24, click to reveal. </summary> 
+
+::: {.information data-latex=""}
+**Tuesday 27/2/2024, 10:15-11:05 in 1W2.01**
+
+Using Media effectively.
+
+We will look at good slide design for presentations and how we can present mathematics effectively using non verbal methods.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Thursday 29/2/2024, 12:15-13:05 in 8W2.30**
+
+Mentor group meetings to discuss Masterclass and individual dicsussions around Mathematical Interaction 2 choices.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 1/3/2023, 12:15-14:05 in 1W2.104 **
+
+Mathematical Interaction 2.
+
+The group will split into 3 sections (Schools Placement/Article/Video) to discuss good practise.
+
+:::
+$~$
+
+::: {.information data-latex=""}
+**Friday 1/3/2024, 17:15-18:05 in 8W2.10**
+
+Masterclass group development.
+:::
+$~$
+
+</details>
+
+<details>
+<summary> Week 5 WB 4/3/24, click to reveal. </summary> 
+
+
+::: {.information data-latex=""}
+**Thursday 7/3/2024, 12:15-13:05 in 8W2.30**
+
+*Masterclass pitches*:
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+
+Schedule:
+
+
+12.20 Bath 16/3 Group
+
+12:40 Blandford 16/3 Group
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 8/3/2023, 12:15-14:05 in 1W2.104 **
+
+*Masterclass pitches*:
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+
+Schedule:
+
+
+12.20 Holyport 16/3 Group
+
+12:40 Swansea 16/3 Group
+
+13.15 Bath 23/3 Group
+
+13.35 Exeter 23/3 Group
+
 :::
 
 </details>
 
+<details>
+<summary> Week 6 WB 11/3/24, click to reveal. </summary> 
+
+
+::: {.information data-latex=""}
+**Thursday 14/3/2024, 12:15-13:05 in 8W2.30**
+
+Mentor group and individual discussions.
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 15/3/2023, 12:15-14:05 in 1W2.104 **
+
+*Mathematical Interaction 2 pitches*
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+Note* this will include all the school placement pitches with some others.
+
+
+Schedule TBC
+
+
+:::
+
+$~$
+
+::: {.mentoring data-latex=""}
+
+**Saturday 16/3/2023 **
+
+Masterclasses in Bath, Blandford, Holyport and Swansea.
+
+
+:::
+
+</details>
+
+
+
+
+
+<details>
+<summary> Week 7 WB 18/3/24, click to reveal. </summary> 
+
+::: {.mentoring data-latex=""}
+
+**Monday 18/3/2023 **
+
+Schools Placement Day.
+
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Thursday 21/3/2024, 12:15-13:05 in 8W2.30**
+
+*Mathematical Interaction 2 pitches continued*
+
+Groups will pitch their initial ideas for their masterclass to the rest of the group. Groups should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+
+
+Schedule TBC
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 22/3/2023, 12:15-14:05 in 1W2.104 **
+
+*Report writing and understanding the assessment*:
+
+In this session we will look at best practice when writing up the evaluative reports and look at examples of good and bad reports from previous years.
+
+
+:::
+
+$~$
+
+::: {.mentoring data-latex=""}
+
+**Saturday 23/3/2023 **
+
+Masterclasses in Bath and Exeter.
+
+
+:::
+
+</details>
+
+</details>
+
+<details>
+<summary> Week 8 WB 25/3/24, click to reveal. </summary> 
+
+
+::: {.information data-latex=""}
+**Thursday 28/3/2024**
+
+Formal feedback.
+
+This will extend beyond the normal Thursday hour timetabled. The timetable will be arranged by mutual agreement, in 3 different locations TBC.
+
+Each Master class group will receive 20 minutes of structured feedback to support the writing of your report. 
+
+
+Each school placement individual/pair will receive 10 minutes of feedback. 
+
+The schedule of feedback times and locations will be detailed below.
+<!--
+
+<u>**Feedback in 8W 2.15**</u>
+
+
+
+11:55 Abi/Tam School Placement
+
+12:05 Chloe/Tam School Placement
+
+12:15 Bath 18th Masterclass group/Tam
+
+12:35 Ashley/Joy/Tam School Placement
+
+12:45 Ewan/Tam School Placement
+
+12:55 Anna School Placement/Tam
+
+
+
+
+<u>**Feedback in 8W 2.30**</u>
+
+12:15 Oxford 18th Masterclass group/Ben
+
+12:35 Bath 25th Masterclass group/Ben
+
+
+
+<u>**Feedback in 1WN3.11**</u>
+
+12:05 Zoe School Placement/Waleed
+
+12:15 Holyport 18th Masterclass group/Waleed
+
+12:35 Exeter 25 Masterclass group/Waleed
+
+12:55 Mira/Rhea/Waleed School Placement
+
+
+-->
+
+:::
+
+</details>
+
+
+</details>
+
+<details>
+<summary> Week 9 WB 15/4/24, click to reveal. </summary> 
+
+
+::: {.information data-latex=""}
+**Thursday 18/4/2024, 12:15-13:05 in 8W2.30**
+
+Write up discussions
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 19/4/2024, 12:15-14:05 in 1W2.104 **
+
+Write up discussions
+:::
+
+</details>
+
+<details>
+<summary> Week 10 WB 22/4/24, click to reveal. </summary> 
+
+
+::: {.information data-latex=""}
+**Thursday 25/4/2024, 12:15-13:05 in 8W2.30**
+
+Write up discussions
+
+:::
+
+$~$
+
+::: {.information data-latex=""}
+**Friday 26/4/2024, 12:15-14:05 in 1W2.104 **
+
+Final write up discussions. Hand in is at 23.59 on 26.4.2023
+:::
+
+</details>
+
+
+
+<!--
 
 <details>
 <summary>Week 2, WB 13/2/23, click to reveal. </summary> 
