@@ -37,11 +37,11 @@ Please find your group below to find details of your delivery group and the seri
 </details>
 
 <details>
-<summary>Blandford School (Dorset) 16.3.23. </summary> 
+<summary>Blandford School (Dorset) 16.3.24. </summary> 
 
 
 ::: {.information data-latex=""}
-**Date:** *16.3.23*.
+**Date:** *16.3.24*.
 
 **Time:** *?*.
 
@@ -63,10 +63,10 @@ Please find your group below to find details of your delivery group and the seri
 </details>
 
 <details>
-<summary>Holyport College 16.3.23. </summary> 
+<summary>Holyport College 16.3.24. </summary> 
 
 ::: {.information data-latex=""}
-**Date:** *16.3.23*.
+**Date:** *16.3.24*.
 
 **Time:** *9:30-12:00*.
 
@@ -87,11 +87,11 @@ Please find your group below to find details of your delivery group and the seri
 </details>
 
 <details>
-<summary>Swansea 16.3.23. </summary> 
+<summary>Swansea 16.3.24. </summary> 
 
 
 ::: {.information data-latex=""}
-**Date:** *16.3.23*.
+**Date:** *16.3.24*.
 
 **Time:** *?*.
 
@@ -138,10 +138,10 @@ Please find your group below to find details of your delivery group and the seri
 </details>
 
 <details>
-<summary>Exeter 23.3.23. </summary> 
+<summary>Exeter 23.3.24. </summary> 
 
 ::: {.information data-latex=""}
-**Date:** *23.3.23*.
+**Date:** *23.3.24*.
 
 **Time:** *9:30-12:00*.
 
