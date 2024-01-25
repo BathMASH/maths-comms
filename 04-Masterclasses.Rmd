@@ -6,16 +6,16 @@ output:
 # Masterclasses{-}
 <!-- This is a spoiler in gitbook, html and epub formats, and normal text otherwise. -->
 
-The Communicating Maths cohort will deliver 6 masterclasses over two weekends. Details will be listed below in due course.
-<!-- 
+The Communicating Maths cohort will deliver 6 masterclasses over two weekends. Details are listed below.
+
 
 Please find your group below to find details of your delivery group and the series you will attend.
 
 <details>
-<summary>Bath 18.3.23. </summary> 
+<summary>Bath 16.3.24. </summary> 
 
 ::: {.information data-latex=""}
-**Date:** *18.3.23*.
+**Date:** *16.3.24*.
 
 **Time:** *10:00-12:30*.
 
@@ -27,46 +27,46 @@ Please find your group below to find details of your delivery group and the seri
 
 **Masterclass Contact** *Chris Budd mascjb@bath.ac.uk*.
 
-**Group Members:** *Joy Boh, Ashley Higgs, Chloe Howcroft, Lucia Lopez, Haranja Sivaneswaran, Jodie Young.*
+**Group Members:** *Jessica Smith, Freya Ong, Jamie Goas, Jon Stevens, Manasi Gaur and Mencia Berganza Zaragoza.*
 
-**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:20 on 9/3/23. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:20 on 7/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
 
-**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long on 28/3/24. You will be expected to ask your mentor reflective questions to support your evaluation.
 
 :::
 </details>
 
 <details>
-<summary>Oxford 18.3.23. </summary> 
+<summary>Blandford School (Dorset) 16.3.23. </summary> 
 
 
 ::: {.information data-latex=""}
-**Date:** *18.3.23*.
+**Date:** *16.3.23*.
 
-**Time:** *10:00-12:30*.
+**Time:** *?*.
 
-**Location:** *Oxford Brookes Campus*.
+**Location:** *Blandford School*.
 
-**Audience:** *Sixth form, approx 30 participants*.
+**Audience:** *?*.
 
 **University Mentor:** *Ben*.
 
-**Masterclass Contact** *Sam Kamparis s.kamperis@brookes.ac.uk*.
+**Masterclass Contact** *Beth Hunt bhunt@blandfordschool.org.uk*.
 
-**Group Members:** *Tom Eves, Zoe Fairfax, Alankrit Mata, Anna Quinn, Rhea Shah.*
+**Group Members:** *Addie Baker, Julija Kazlauskaite,Oscar Harte, Ameen Hassan, Olivia Clarkson (Driver).*
 
-**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:20 on 10/3/23. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:40 on 7/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
 
-**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long on 28/3/24. You will be expected to ask your mentor reflective questions to support your evaluation.
 
 :::
 </details>
 
 <details>
-<summary>Holyport College 18.3.23. </summary> 
+<summary>Holyport College 16.3.23. </summary> 
 
 ::: {.information data-latex=""}
-**Date:** *18.3.23*.
+**Date:** *16.3.23*.
 
 **Time:** *9:30-12:00*.
 
@@ -74,24 +74,50 @@ Please find your group below to find details of your delivery group and the seri
 
 **Audience:** *Year 9, approx 45 participants*.
 
-**University Mentor:** *Waleed*.
+**University Mentor:** *Waleed (your assessor will be Sam Durbin from the Ri sdurbin@ri.ac.uk)*.
 
-**Masterclass Contact** *Daniel Hubbard rimasterclasses@holyportcollege.org.uk*.
+**Masterclass Contact** *Daniel Hubbard d.hubbard@holyportcollege.org.uk and Aisha Saeed a.saeed@holyportcollege.org.uk*.
 
-**Group Members:** *Andrew McGrath ,Kamilla Bugno,Ewan Partington, Samantha Perryman, Olivia Wiseman.*
+**Group Members:** *Ethan Attwood, Hadiyah Qureshi, Matthew Hall, Ellie Smyth (Driver), Will Carpenter (Driver).*
 
-**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:40 on 9/3/23. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:20 on 8/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
 
-**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your assessor (Samantha Durbin), who observed. Feedback slots will be approx 20 minutes long on or around the 28/3/24, time mutually agreed. You will be expected to ask your assessor reflective questions to support your evaluation.
 :::
 </details>
 
 <details>
-<summary>Bath 25.3.23. </summary> 
+<summary>Swansea 16.3.23. </summary> 
 
 
 ::: {.information data-latex=""}
-**Date:** *25.3.23*.
+**Date:** *16.3.23*.
+
+**Time:** *?*.
+
+**Location:** *Swansea University Campus*.
+
+**Audience:** *?*.
+
+**University Mentor:** *Waleed*.
+
+**Masterclass Contact** *Sofya Lyakhova s.lyakhova@swansea.ac.uk*.
+
+**Group Members:** *Ajay Bater, Jenna Benbow, Nina Peric, Dandan Zhang, Dylan Flanagan (Driver).*
+
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:40 on 8/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long on 28/3/24. You will be expected to ask your mentor reflective questions to support your evaluation.
+
+:::
+</details>
+
+<details>
+<summary>Bath 23.3.24. </summary> 
+
+
+::: {.information data-latex=""}
+**Date:** *23.3.24*.
 
 **Time:** *10:00-12:30*.
 
@@ -103,19 +129,19 @@ Please find your group below to find details of your delivery group and the seri
 
 **Masterclass Contact** *Chris Budd mascjb@bath.ac.uk*.
 
-**Group Members:** *Abigail Bennett, Tosia Ciszek, Mirren Derby,Timi Folaranmi, Molly Maguire-King, Tali Shear*
+**Group Members:** *Alfie Robinson, Emily Howard, Kieran Breathnach, Liam Jones, Marta Breton de la Cierva, Leila Ingram-Smith*
 
-**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 12:40 on 10/3/23. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 13:15 on 8/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
 
-**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long on 28/3/24. You will be expected to ask your mentor reflective questions to support your evaluation.
 :::
 </details>
 
 <details>
-<summary>Exeter 25.3.23. </summary> 
+<summary>Exeter 23.3.23. </summary> 
 
 ::: {.information data-latex=""}
-**Date:** *25.3.23*.
+**Date:** *23.3.23*.
 
 **Time:** *9:30-12:00*.
 
@@ -125,14 +151,14 @@ Please find your group below to find details of your delivery group and the seri
 
 **University Mentor:** *Tam*.
 
-**Masterclass Contact** *Sophie Brown SophieBrown@exeterms.ac.uk*.
+**Masterclass Contact** *Jo Events@exetermathematicsschool.ac.uk*
 
-**Group Members:** *Sam Cheung, Lana Gregory, Ella Hidveghy, Rebecca Knight, Mira Balaji.*
+**Group Members:** *Lucia Garcia, Amy Best, Henry Reeves, Joe Addisson, Matt Landau (Driver)*
 
-**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 13:20 on 10/3/23. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
+**Initial pitch:** This group will pitch their initial ideas for their masterclass to the rest of the group at 13:35 on 8/3/24. You should prepare a 10 minute overview of your masterclass showing any relevant material. After this, you can expect to receive questions and feedback from your lecturers and peers for approx 10 minutes.
 
-**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long and during the 12:15-13:05 timetabled time on 30/3/23. You will be expected to ask your mentor reflective questions to support your evaluation.
+**Feedback:** After you have delivered your Masterclass you will receive verbal feedback, to support your written evaluation. This will be given by your mentor, who observed. Feedback slots will be approx 20 minutes long on 28/3/24. You will be expected to ask your mentor reflective questions to support your evaluation.
 :::
 </details>
--->
+
 

@@ -5,7 +5,12 @@ output:
 ---
 # School Placements{-}
 
-A list of arranged placements will be listed below for those who opted for school placement for their second Mathematical Interaction in due course.
+Student can opt to complete a school placement for their second Mathematical Interaction. 
+
+The placement will be at [Oldfield School](https://www.oldfieldschool.com/) on **Monday 18th March**.
+
+Details of which class each individual or pair will be presenting to will be listed here after all students have confirmed their Mathematical Interaction 2 choice.
+
 <!--
 
 
